@@ -32,8 +32,7 @@ const Header = () => {
             <div className="h-10 w-px bg-fifa-gray" />
             
             <h1 className="text-2xl font-heading font-bold tracking-wide">
-              FIFA WORLD CUP Simulator 2026
-              <span className="text-fifa-gold">™</span>
+              International Tournament Simulator 2026
             </h1>
           </div>
           

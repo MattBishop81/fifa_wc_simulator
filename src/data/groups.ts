@@ -1,4 +1,4 @@
-// FIFA World Cup 2026 Groups
+// International tournament groups
 // 48 teams in 12 groups of 4
 // Note: Some teams are undecided (shown as arrays of possible teams)
 

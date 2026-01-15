@@ -6,7 +6,7 @@ import { getDateKey, formatDate } from '../data/matchHelpers';
 import { generatePredictions } from '../utils/predictions';
 import TeamBadge from './TeamBadge';
 
-// Simplified schedule grid view inspired by FIFA official schedule
+// Simplified schedule grid view inspired by official schedules
 const ScheduleGrid = () => {
   const { 
     phase,

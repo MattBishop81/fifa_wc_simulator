@@ -1,12 +1,12 @@
 // Match Simulation Engine
-// Uses FIFA totalPoints to calculate win probabilities and generate realistic results
+// Uses ranking points to calculate win probabilities and generate results
 
 import { teams } from '../data/teams';
 
 /**
- * Calculate win probability for team A based on FIFA totalPoints
- * @param {number} pointsA - FIFA totalPoints of team A (higher is better)
- * @param {number} pointsB - FIFA totalPoints of team B
+ * Calculate win probability for team A based on ranking points
+ * @param {number} pointsA - Ranking points of team A (higher is better)
+ * @param {number} pointsB - Ranking points of team B
  * @returns {number} - Probability of team A winning (0-1)
  */
 export const calculateWinProbability = (pointsA, pointsB) => {
@@ -20,8 +20,8 @@ export const calculateWinProbability = (pointsA, pointsB) => {
 
 /**
  * Generate a realistic scoreline based on team strengths
- * @param {number} pointsA - FIFA totalPoints of team A
- * @param {number} pointsB - FIFA totalPoints of team B
+ * @param {number} pointsA - Ranking points of team A
+ * @param {number} pointsB - Ranking points of team B
  * @returns {Object} - { goalsA, goalsB }
  */
 export const generateScore = (pointsA, pointsB) => {

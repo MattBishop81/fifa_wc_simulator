@@ -1,4 +1,4 @@
-// FIFA World Cup 2026 Knockout Stage Structure
+// International tournament knockout stage structure
 // 32 teams qualify from group stage (top 2 from each group + 8 best 3rd place)
 
 import { parseDate, venueToCityId } from './matchHelpers';

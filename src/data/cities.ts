@@ -1,4 +1,4 @@
-// FIFA World Cup 2026 Host Cities
+// International tournament host cities
 // 16 cities across USA, Mexico, and Canada
 
 export const regions = {

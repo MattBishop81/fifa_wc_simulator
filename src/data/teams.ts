@@ -1,4 +1,4 @@
-// FIFA World Cup 2026 Teams with FIFA Rankings (as of late 2025)
+// International tournament teams with ranking points (as of late 2025)
 // Rankings are approximate and used for simulation probability
 
 export const teams = {

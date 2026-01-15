@@ -1,6 +1,6 @@
-# FIFA World Cup 2026 Simulator
+# International Tournament 2026 Simulator
 
-Interactive FIFA World Cup 2026 tournament simulator built with React, TypeScript, and Tailwind CSS. Select qualifiers, simulate group and knockout stages, and explore the full match schedule with predictions.
+Interactive international tournament simulator built with React, TypeScript, and Tailwind CSS. Select qualifiers, simulate group and knockout stages, and explore the full match schedule with predictions.
 
 ## Features
 
@@ -48,3 +48,7 @@ npm run preview
 
 - Predictions run a large number of simulations and may take a few seconds.
 - Team, group, and schedule data live in `src/data/` and can be edited directly.
+
+## Disclaimer
+
+This project is a fan-made simulation for entertainment and educational purposes. It is not affiliated with, endorsed by, or connected to any tournament organizer or governing body.

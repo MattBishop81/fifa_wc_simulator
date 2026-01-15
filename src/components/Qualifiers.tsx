@@ -74,7 +74,7 @@ const Qualifiers = () => {
               Select Undecided Teams
             </h3>
             <p className="text-fifa-text-muted text-sm">
-              Please select one team from each undecided slot, or click "Simulate Qualifiers" to run a round-robin tournament based on FIFA rankings.
+              Please select one team from each undecided slot, or click "Simulate Qualifiers" to run a round-robin tournament based on ranking points.
             </p>
           </div>
           

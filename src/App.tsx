@@ -66,10 +66,10 @@ const TournamentApp = () => {
       {/* Footer */}
       <footer className="border-t border-fifa-gray mt-12 py-6">
         <div className="max-w-[1800px] mx-auto px-4 text-center text-fifa-text-muted text-sm">
-          <p>FIFA World Cup 2026™ Simulator • Built with React + Tailwind CSS</p>
+          <p>International Tournament 2026 Simulator • Built with React + Tailwind CSS</p>
           <p className="text-xs mt-1 opacity-60">
-            This is a fan-made simulator for entertainment purposes only. 
-            Not affiliated with FIFA.
+            This is a fan-made simulation for entertainment and educational purposes.
+            Not affiliated with any tournament organizer or governing body.
           </p>
         </div>
       </footer>

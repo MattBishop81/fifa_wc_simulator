@@ -2,6 +2,8 @@
 
 Interactive international tournament simulator built with React, TypeScript, and Tailwind CSS. Select qualifiers, simulate group and knockout stages, and explore the full match schedule with predictions.
 
+Live site: https://wc-simulator.web.app
+
 ## Features
 
 - Qualifier selection for undecided teams

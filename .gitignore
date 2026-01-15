@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 .npm-cache
+.firebase
+.firebaserc
+firebase-debug.log*
+firebase.json
+package-lock.json
+npm-shrinkwrap.json
 
 # Editor directories and files
 .vscode/*
